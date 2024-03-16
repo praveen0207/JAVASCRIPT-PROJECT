@@ -15,5 +15,5 @@ Simple and intuitive user interface.
 Lightweight and easy to understand codebase.
 
 Technologies Used:
-HTML
+HTML,
 JavaScript
